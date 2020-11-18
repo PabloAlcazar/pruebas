@@ -1,0 +1,26 @@
+{"cabecera": {
+    "nombre": {
+        "texto":"Nacho",
+        "id": "234122"
+    },
+    "apellido1": "Serrano",
+    "apellido2": "Broncano",
+    "telefono": "666666666",
+    "email": "ignacio.serrano@ufv.es",
+    "foto_perfil": "/home/nacho/foto_perfil.png",
+    "contactos": [
+        {
+            "horario_inicio": "19:20",
+            "horario_fin": "20:20"
+        },
+        {
+            "horario_inicio": "19:20",
+            "horario_fin": "20:20"
+        },
+        {
+            "horario_inicio": "19:20",
+            "horario_fin": "20:20"
+        }
+    ]
+}
+}
